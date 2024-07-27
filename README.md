@@ -1,5 +1,7 @@
 # RPGMaker Save Editor
 
+Edit: nvm a better solution has been found
+
 This version has been modified to work with nwjs instead of electron. It is intended to be used with https://github.com/m5kro/RPG-Maker-MV-MZ-MacOS-Launcher 
 
 This is a tool for editing RPGMaker save files. It currently supports save files written by RPG Maker MZ (.rmmzsave), but support for other versions of RPGMaker is planned for the future.
